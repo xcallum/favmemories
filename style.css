@@ -1,1 +1,13 @@
+img {
+  width:30px;
+  height:75px;
+}
 
+#head {
+  font-family:Verdana, sans-serif;
+  font-size:30px;
+}
+
+table {
+  border:1px solid #87eadd; 
+}
